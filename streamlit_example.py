@@ -13,4 +13,4 @@ st.write("Adios amor")
 
 st.dataframe(df)
 
-st.image('porquinho-polidance.gif', width=200)
+st.image('STREAMLIT_EXAMPLE/porquinho-polidance.gif', width=200)
